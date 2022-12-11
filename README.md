@@ -15,21 +15,27 @@ Besides that, for the client java class, there are add donors, remove donors, mo
 After that, there is also a donor entity to get and set all the donor information, toString function and compareTo function also have apply in this entity java class. ToString function is to display the get donor information and the compareTo is to compare the donation amounts so sorted them by ascending format.
 
 ADD function 
+
 ![image](https://user-images.githubusercontent.com/66995676/206908154-4b7d4adf-1892-454a-b568-26e6cedb6d03.png)
 
 REMOVE function
+
 ![image](https://user-images.githubusercontent.com/66995676/206908207-0645b119-337a-4ebf-be66-7f62fda30535.png)
 
 MODIFY function
+
 ![image](https://user-images.githubusercontent.com/66995676/206908232-c95a5227-d785-4e25-a26d-68e1c73020e3.png)
 
 SEARCH function 
+
 ![image](https://user-images.githubusercontent.com/66995676/206908261-478fd966-cc8e-448d-8433-d2d2153a97bd.png)
 
 DISPLAY ALL function 
+
 ![image](https://user-images.githubusercontent.com/66995676/206908275-b84f2648-0714-4e09-9784-104e66d55bbf.png)
 
 GENERATE REPORT function
+
 ![image](https://user-images.githubusercontent.com/66995676/206908314-dd620e06-a427-4cdb-8e8c-f32d4d303807.png)
 
 EXIT program
